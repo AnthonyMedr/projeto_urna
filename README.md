@@ -1,5 +1,6 @@
 # projeto_urna
-URNA
-Primeira versão  do código da urna. Há apenas duas telas, com botões e prompts.
+URNA  1.1
 
-O que fazer hj. Obrigatóriedade de preenchimento dos prompts, segunda tela clicavél e otimizar CSS.
+Urna quase finalizada, faltando apenas ajustes na tela de gerenciamento.
+ ajustes esses: 
+          -Posicionar os candidatos fixamente na tabela de votos, mesmo que não apresentem votos.
