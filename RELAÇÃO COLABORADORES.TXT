@@ -1,0 +1,637 @@
+ 0001  - Ferreira Costa e Cia Ltda                                                                                                           Pág.:        1
+                                                        Relação de Empregados
+
+
+ 
+ Cadastro       Nome                                                              Admissão         Cargo
+ 1655           DIANA SANTINA DE SANTANA PONTES                                   27/04/1998       GERENTE ADJUNTO I
+
+ 2604           PATRICK LUCIANO DE MELO                                           01/12/2001       SUPERVISOR DE VENDAS IV
+ 3563           RICARDO ALEXSANDRO SILVA OLIVEIRA                                 20/06/2005       GERENTE ADJUNTO II
+ 3624           ANDRE VALENCA PEREIRA                                             07/11/2005       GERENTE ADJUNTO I
+ 3764           ADELINO DA SILVA BEZERRA                                          03/04/2006       SUPERVISOR DE VENDAS III
+
+ 3875           AUGUSTO DAMAZIO BEZERRA                                           17/07/2006       SERRALHEIRO I
+ 3985           AYLA ROBERTA DOS SANTOS VIANA                                     26/10/2006       SUPERVISOR ADMINISTRATIVO
+ 4048           CARLOS SILVA SANTOS                                               01/12/2006       SUPERVISOR DE DEPOSITO III
+ 4423           JADSON THIAGO MATIAS DE FRANCA                                    20/11/2007       GERENTE GERAL DE LOJA
+
+ 4445           EDVALDO JOSE DA SILVA                                             06/12/2007       SUPERVISOR DE DEPOSITO IV
+ 4604           FABIANA TORRES DE MACEDO                                          07/04/2008       GERENTE DE DEPOSITO
+ 7420           KELMANY PEDRO MARQUES PASSOS                                      18/10/2011       SUPERVISOR DE TI
+ 8332           CLEBSON MEDEIROS DA SILVA                                         08/10/2012       GERENTE DE PREV. DE PERDAS
+
+ 11249          JOSE MURATE DE AZEVEDO SILVA                                      03/11/2014       SUPERVISOR DE DEPOSITO
+ 14664          LUIZ ALVES ANACLETO JUNIOR                                        17/01/2018       SUPERVISOR DE DEPOSITO I
+ 16087          DAIANY DA SILVA FERREIRA VALENCA                                  17/06/2019       SUPERVISOR DE TESOURARIA
+ 16138          LUAN LUCAS PESSOA DO NASCIMENTO                                   27/06/2019       SUPERVISOR DE AUDITORIA
+
+ 17553          JAMILLY VITORIA BARBOSA DA SILVA                                  01/07/2020       AUX. DE COMPRAS
+ 18644          ANDERSON CARLOS SOUZA ANDRADE                                     21/12/2020       SUPERVISOR DE VENDAS II
+ 18657          ANDERSON JHONATTAS ABREU DA SILVA                                 06/01/2021       SUPERVISOR DE VENDAS I
+ 18673          DEBORA WILMA DE OLIVEIRA SILVA                                    13/01/2021       AUX. DE PLANEJAMENTO
+
+ 18743          VIVIANE CRISTINA BARBOSA DA SILVA                                 15/02/2021       SUPERVISOR DE VENDAS II
+ 18744          RAPHAEL HANS BARROS DE ARAUJO FREIRE                              15/02/2021       SUPERVISOR FRENTE DE LOJA
+ 18745          JOSE AUGUSTO DA SILVA                                             15/02/2021       SUPERVISOR DE MANUTENCAO
+ 18820          DANIEL VIRIATO DE LIRA                                            15/03/2021       SUPERVISOR DE VENDAS I
+
+ 18821          AMANDA FERNANDES FREIRE                                           15/03/2021       SUPERVISOR DE RECURSOS HUMA
+ 18822          BRUNO AIRES DE SOUZA AMARAL                                       15/03/2021       SUPERVISOR DE VENDAS I
+ 18823          JOSE RENATO DE ARAUJO                                             15/03/2021       SUPERVISOR DE DEPOSITO V
+ 18827          RICARDO GOMES DE SOUZA                                            17/03/2021       SUPERVISOR PREV. DE PERDAS
+
+ 18880          JESSICA LAIS TAVARES VITOR DA SILVA                               05/04/2021       ANALISTA RECURSOS HUMANOS
+ 18881          EWERTON FILIPE SOARES AGAPITO                                     05/04/2021       AUX. DE ESCRITA FISCAL II
+ 18899          CICERO HENRIQUE ANGELO DA SILVA                                   14/04/2021       VENDEDOR
+ 18900          CELTON ARTHUR DA SILVA RODRIGUES                                  14/04/2021       ATENDENTE
+
+ 18901          JOSE MATHEUS FEITOSA                                              14/04/2021       SUPERVISOR DE TRADE MARKETING
+ 18903          MARIO LUIS DE BARROS GOIS NETO                                    14/04/2021       ASSISTENTE TRADE MARKETING
+ 18904          LUCAS ANDRE ALVES COSTA                                           14/04/2021       VENDEDOR
+ 19011          WELLINGTON GOMES DE SOUSA                                         10/05/2021       CONFERENTE DE MERCADORIA I
+
+ 19013          KELLY NEUZA DA SILVA SANTOS                                       10/05/2021       AUX. DE PREVENCAO DE PERDAS II
+ 19014          JOSE CARLOS DA SILVA                                              10/05/2021       AUX. DE PREVENCAO DE PERDAS II
+ 19015          CARLA CRIS DE ARAUJO                                              10/05/2021       ANALISTA DE DP
+ 19016          ELISANGELA MENDONCA FLORENCIO                                     10/05/2021       APROVADOR DE CREDITO
+
+ 19017          AMANDA LUCIA DE SIQUEIRA                                          10/05/2021       AUX. ADMINISTRATIVO II
+ 19020          THIAGO HONORIO RODRIGUES                                          10/05/2021       AUX. DE PREVENCAO DE PERDAS I
+ 19021          JEFFERSON DA SILVA MELO                                           10/05/2021       ENCARREGADO DE DEPOSITO
+ 19025          MOAB PONTES FLORENCIO                                             10/05/2021       CONFERENTE DE MERCADORIA I
+
+ 19026          LEONARDO VANDRE PEREIRA DA SILVA                                  10/05/2021       CONFERENTE DE MERCADORIA I
+ 19029          MARCELO HENRIQUE DA SILVA                                         10/05/2021       CONFERENTE DE MERCADORIA I
+ 19031          TAMIRYS MARINHO RAMOS                                             10/05/2021       SUPERVISOR DE VENDAS I
+ 19072          JOAO OTAVIO DOS SANTOS                                            18/05/2021       SUPERVISOR DE DEPOSITO II
+
+ 19073          MATHEUS LIMA MEDEIROS                                             18/05/2021       SUPERVISOR DE VENDAS I
+ 19075          TATHIANE PEREIRA DA SILVA GOES                                    18/05/2021       SUPERVISOR DE CONSERVACAO
+ 19104          UESLEI MOTA MARTINS                                               24/05/2021       OPERADOR DE EMPILHADEIRA I
+ 19105          IRONILSON JOSE RODRIGUES                                          24/05/2021       AUXILIAR DE LIMPEZA SANITARIA
+
+ 19107          JUAN CARLOS MATIAS LOPES                                          24/05/2021       ASSISTENTE TRADE MARKETING
+ 19112          LUCAS DO ESPIRITO SANTO MARTINS                                   27/05/2021       VENDEDOR
+ 19114          CLEITON SOARES DA COSTA                                           27/05/2021       TEC. SEGURANCA DO TRABALHO
+ 19115          MARYANA RAFAELLA SILVA AMORIM                                     27/05/2021       ATENDENTE II
+
+ 19149          DAYSE KARINE RODRIGUES DE LIMA                                    04/06/2021       ATENDENTE
+ 19150          FILIPE JONATHAN FALCAO DA SILVA                                   04/06/2021       AUX. AUDITORIA INT.
+ 19154          JOYCE MICHELE MARQUES ONORATO                                     04/06/2021       ATENDENTE
+ 19155          IRINA MARIA DA SILVA                                              04/06/2021       ATENDENTE
+
+ 19157          ROBERTA CARDOZO DE FREITAS                                        04/06/2021       ATENDENTE I
+ 19159          ADNA MARILAQUE NUNES ALVES                                        04/06/2021       AUX. ADMINISTRATIVO EM VENDAS
+ 19160          WIRAQUIEDNA FERNANDA DOS SANTOS                                   04/06/2021       ATENDENTE
+ 19162          WESLEY BELARMINO DA SILVA                                         04/06/2021       ASSISTENTE DE AUDITORIA
+
+ 19164          EMERSON GUSTAVO BEZERRA MARTINS                                   04/06/2021       VENDEDOR
+
+SMCL002.GER  -  14/12/2023  -  15:06:25                                                  FERREIRA COSTA & CIA LTDA                                                   Usuário: 19114
+ 0001  - Ferreira Costa e Cia Ltda                                                                                                           Pág.:        2
+                                                        Relação de Empregados
+
+
+ 
+ Cadastro       Nome                                                              Admissão         Cargo
+ 19165          HELIO MOREIRA DO NASCIMENTO                                       04/06/2021       VENDEDOR
+
+ 19166          JOSE GERALDO FERREIRA DA FONSECA JUNIOR                           04/06/2021       VENDEDOR
+ 19169          HELDER WILLIAM OLIVEIRA BARBOSA DA SILVA                          04/06/2021       VENDEDOR
+ 19177          LUCIA GEANE DA SILVA                                              04/06/2021       VENDEDOR
+ 19178          DIOGO FERREIRA LEITE                                              04/06/2021       SEPARADOR
+
+ 19183          NATALIA LEITE CEZANO PERGENTINO                                   04/06/2021       VENDEDOR TELEVENDAS
+ 19188          VALNEI ROCHA DOS SANTOS                                           04/06/2021       CONFERENTE DE MERCADORIA I
+ 19189          VANESKA MARIA LEANDRO DOS SANTOS                                  04/06/2021       ATENDENTE
+ 19190          VINICIUS CLAUDIO MONTEIRO DOS SANTOS                              04/06/2021       VENDEDOR
+
+ 19192          LINDOVAL LIDERCO DA SILVA                                         04/06/2021       CONFERENTE DE MERCADORIA I
+ 19199          MARIA KASSIANE TORRES                                             04/06/2021       ATENDENTE I
+ 19200          ANDERSON JOSE DE LUCENA                                           04/06/2021       VENDEDOR
+ 19202          ERICA PATRICIA DE LIMA SILVA                                      04/06/2021       VENDEDOR
+
+ 19203          THALITA MARIA DA SILVA                                            04/06/2021       ATENDENTE
+ 19204          MARIA AMELIA SANTOS DA SILVA                                      04/06/2021       VENDEDOR
+ 19213          FRANCISCA IZA CARNEIRO DE LAVOR                                   07/06/2021       TESOUREIRO
+ 19214          JOSEANE JOSEFA DA CONCEICAO                                       07/06/2021       APROVADOR DE CREDITO
+
+ 19215          JOSIVANIA MARIA DA SILVA GUEDES                                   07/06/2021       OPERADOR DE LOJA
+ 19216          KARINY VALENCA DA SILVA                                           07/06/2021       ENCARREGADO DE ATENDIMENTO
+ 19224          PRISCILA MORGANA LIMA SILVA                                       07/06/2021       OPERADOR DE LOJA
+ 19225          MURILANE LOPES DA SILVA                                           07/06/2021       ATENDENTE
+
+ 19229          DEBORA MORGANA DE SOUZA DOS SANTOS                                07/06/2021       OPERADOR DE LOJA
+ 19230          ESLEANE MIRELI BEZERRA DE CASTRO                                  07/06/2021       OPERADOR DE LOJA
+ 19231          CRISTIANO MENDES DE OLIVEIRA                                      07/06/2021       AUX. DE PREVENCAO DE PERDAS I
+ 19240          NAYSHA DA SILVA LIMA                                              07/06/2021       SUPERVISOR DE ATENDIMENTO
+
+ 19246          ANA LUCIA DE SOUZA                                                07/06/2021       OPERADOR DE LOJA
+ 19248          CASSIA BARBOSA DE OLIVEIRA SILVA                                  07/06/2021       AUX. DE PREVENCAO DE PERDAS II
+ 19250          KARLA GISELLY MENDES A. DE HOLANDA                                07/06/2021       AUX. DE TRADE MARKETING II
+ 19251          KARLA LUCIANNE ALBUQUERQUE DE MEDEIROS                            07/06/2021       AUXILIAR DE LIMPEZA SANITARIA
+
+ 19252          LETICIA KEITTY SOBRAL DE SOUZA                                    07/06/2021       ATENDENTE I
+ 19255          RICARDO LUIZ DA SILVA                                             07/06/2021       AUX. DE PREVENCAO DE PERDAS II
+ 19261          TELMA MARIA VIEIRA DE LUCENA TENORIO                              07/06/2021       AUX. DE PREVENCAO DE PERDAS II
+ 19284          VALBER PEREIRA MERCEZ                                             14/06/2021       AUXILIAR DE LIMPEZA SANITARIA
+
+ 19285          ANDERSON JOSE DOS SANTOS                                          14/06/2021       AUXILIAR DE LIMPEZA SANITARIA
+ 19287          ELIANA DOS SANTOS SOUZA                                           14/06/2021       AUXILIAR DE LIMPEZA SANITARIA
+ 19289          JOAO LUIS DE ASEVEDO MACHADO FILHO                                14/06/2021       ELETRICISTA I
+ 19296          MAYCON WILLAMES JORDAO DA SILVA                                   14/06/2021       ELETRICISTA
+
+ 19315          ADRIANA MARIA DA COSTA                                            23/06/2021       VENDEDOR
+ 19316          ALCIMAR FERREIRA DA SILVA                                         23/06/2021       MOTORISTA
+ 19317          ALLANDSON MATEUS ALVES DA SILVA                                   23/06/2021       SUPERVISOR DE VENDAS
+ 19318          ANTONIO SIMOES RODRIGUES FILHO                                    23/06/2021       AUX. DE PREVENCAO DE PERDAS II
+
+ 19320          CAROL GOMES DE OLIVEIRA NASCIMENTO                                23/06/2021       VENDEDOR
+ 19327          EDUARDO LOPES DA SILVA                                            23/06/2021       CONFERENTE DE MERCADORIA
+ 19329          FABIO CARLOS FLORENCIO                                            23/06/2021       VENDEDOR
+ 19333          GISELI VASCONCELOS GOMES                                          23/06/2021       VENDEDOR
+
+ 19334          ITALO PERACIO GONCALVES DIAS                                      23/06/2021       AUX. DE PREVENCAO DE PERDAS II
+ 19337          JEFFERSON HENRIQUE DAMASIO DA SILVA                               23/06/2021       ATENDENTE
+ 19338          JONATAS FLAVIO DO NASCIMENTO                                      23/06/2021       AUX. DE PREVENCAO DE PERDAS II
+ 19341          JOSECLEIDE GOMES DE ALMEIDA                                       23/06/2021       OPERADOR DE LOJA
+
+ 19344          KEYLA KATARINNE DE MELO DE OLIVEIRA                               23/06/2021       VENDEDOR
+ 19349          LUCAS LEVY DE SOUZA MELO                                          23/06/2021       VENDEDOR
+ 19350          LUCIVANIA DOS SANTOS SILVA                                        23/06/2021       VENDEDOR
+ 19351          LUIZ EDUARDO DE OLIVEIRA SILVA                                    23/06/2021       VENDEDOR
+
+ 19352          LUIZ GUSTAVO DE MOURA NOGUEIRA                                    23/06/2021       AUX. AUDITORIA INT.
+ 19354          MAYARA KAROLAYNE LINS CARNEIRO                                    23/06/2021       OPERADOR DE LOJA
+ 19358          PALOMA PESSOA DA SILVA                                            23/06/2021       ATENDENTE I
+ 19364          VINICIUS RODRIGUES CABRAL                                         23/06/2021       SUPERVISOR DE VENDAS
+
+ 19365          WILLIAN FRANCISCO DA SILVA                                        23/06/2021       VENDEDOR
+ 19381          AMARO VICENTE DA ROCHA JUNIOR                                     01/07/2021       PINTOR
+ 19383          CARLA LUCIANA DA SILVA                                            01/07/2021       AUX. DE SERVICOS GERAIS
+ 19387          DJAILSON DA SILVA BEZERRA                                         01/07/2021       SUPERVISOR DE DEPOSITO I
+
+ 19388          DOUGLAS DAMIAO DA SILVA                                           01/07/2021       PROMOTOR DE VENDAS FCM
+ 19391          IGOR MELO XAVIER DA SILVA                                         01/07/2021       MARCENEIRO I
+ 19393          JOAO SILVA DE ALMEIDA                                             01/07/2021       OPERADOR DE EMPILHADEIRA II
+ 19396          JOSIANE MARIA DO NASCIMENTO VENANCIO                              01/07/2021       AUXILIAR DE LIMPEZA SANITARIA
+
+ 19399          NATANAEL ANTONIO DE LIRA FILHO                                    01/07/2021       MOTORISTA EXTERNO
+
+SMCL002.GER  -  14/12/2023  -  15:06:26                                                  FERREIRA COSTA & CIA LTDA                                                   Usuário: 19114
+ 0001  - Ferreira Costa e Cia Ltda                                                                                                           Pág.:        3
+                                                        Relação de Empregados
+
+
+ 
+ Cadastro       Nome                                                              Admissão         Cargo
+ 19402          WANDERSON DE OLIVEIRA FRANCA                                      01/07/2021       AUX.ENTREGA EXTERNA
+
+ 19403          CLAUDILSON JACKSON GONCALO DA SILVA                               01/07/2021       AUX. ADMINISTRATIVO I
+ 19432          WILSON MOURA DA SILVA                                             05/07/2021       AUX. AUDITORIA INT. II
+ 19433          ANDERSON SANTOS DA SILVA                                          05/07/2021       AUX. DE PREVENCAO DE PERDAS II
+ 19436          ELIZABETE CRISTINA T.DA SILVA SOARES                              05/07/2021       VENDEDOR
+
+ 19438          GENILSON MARTINS DA SILVA                                         05/07/2021       VENDEDOR
+ 19439          IVAN SILVA DOS SANTOS JUNIOR                                      05/07/2021       AUX. DE PREVENCAO DE PERDAS II
+ 19443          MARLIGTON DOS SANTOS SOUZA                                        05/07/2021       ENCARREGADO DE PREV. DE PERD
+ 19444          PEDRO HENRIQUE DA CONCEICAO PEREIRA                               05/07/2021       VENDEDOR
+
+ 19447          WILKER ANKARO LYRA DOS ANJOS                                      05/07/2021       AUX. AUDITORIA INT. II
+ 19497          GENAILDO MARTINS DE ASSIS                                         15/07/2021       CONFERENTE DE MERCADORIA
+ 19498          GIDELSON DA SILVA ARRUDA                                          15/07/2021       VENDEDOR
+ 19499          GLAUCIO SILVA GARCEZ                                              15/07/2021       VENDEDOR
+
+ 19501          JAMES LUCAS BRASIL DA SILVA                                       15/07/2021       OPERADOR DE COMPUTADOR I
+ 19506          JOSE MARCONE BEZERRA SILVA                                        15/07/2021       ATENDENTE
+ 19507          JOSE MARCOS DOS SANTOS SILVA                                      15/07/2021       APOIO DE CAIXA
+ 19509          JOVANA KETELE OLIVEIRA GERIN                                      15/07/2021       ATENDENTE
+
+ 19510          LAYSA LUCIANA DE OLIVEIRA DA SILVA                                15/07/2021       ATENDENTE
+ 19511          LUAN TALISSON SOUZA SANTOS                                        15/07/2021       AUX. AUDITORIA INT. I
+ 19523          ALYSSON SANTIAGO DE SANTANA                                       15/07/2021       VENDEDOR
+ 19525          ARTHUR MELO BIONE GOMES                                           15/07/2021       VENDEDOR
+
+ 19526          CAIO VINICIUS LAURENTINO BARBOZA                                  15/07/2021       SUPERVISOR DE VENDAS
+ 19532          EDILMA MARIA DA SILVA                                             15/07/2021       ATENDENTE
+ 19537          ERIK HENRIQUE DA SILVA MARQUES                                    15/07/2021       OPERADOR DE COMPUTADOR
+ 19539          IRAN JACKSON SOARES DOS SANTOS                                    15/07/2021       MOTORISTA EXTERNO
+
+ 19540          JARDELINO LUIZ FERREIRA DA SILVA                                  15/07/2021       MOTORISTA EXTERNO
+ 19543          MATEUS ALISON SOUZA CAVALCANTE                                    15/07/2021       AUX. ADMINISTRATIVO I
+ 19546          RINALDO VILA NOVA DE ANDRADE                                      15/07/2021       OPERADOR DE EMPILHADEIRA I
+ 19547          RONALDO ARAUJO DA SLVA                                            15/07/2021       VENDEDOR
+
+ 19548          ROSIVALDO CANDIDO DA SILVA                                        15/07/2021       PEDREIRO I
+ 19551          VANDERSON SIMPLICIO DA SILVA                                      15/07/2021       ATENDENTE I
+ 19552          WILL SANNETT GOMES FILHO                                          15/07/2021       APOIO DE CAIXA
+ 19553          SERGIO ROGERIO RODRIGUES SANTOS                                   15/07/2021       MOTORISTA EXTERNO
+
+ 19556          MANOEL LUIZ FRAGOSO JUNIOR                                        15/07/2021       VENDEDOR
+ 19609          DENYS NOBERTO DE OLIVEIRA MOURA                                   28/07/2021       SUPERVISOR DE RELACIONAMENTO
+ 19610          ERICON XAVIER DOS SANTOS                                          28/07/2021       AUX. DE ASSISTENCIA TECNICA
+ 19614          RUBERLON JOSE DE LIMA                                             28/07/2021       MOTORISTA
+
+ 19617          AYRTTON DAWHYD GONCALVES DE MELO                                  28/07/2021       CONFERENTE DE MERCADORIA I
+ 19619          CLEIDIANE DE ALMEIDA MENDES                                       28/07/2021       AUXILIAR DE LIMPEZA SANITARIA
+ 19696          FLAVIO APOLONIO DA SILVA                                          10/08/2021       MOTORISTA EXTERNO
+ 19697          ROGERIO PEDRO DE OLIVEIRA                                         10/08/2021       AUX. DE PREVENCAO DE PERDAS II
+
+ 19698          EMANUEL TUANN RIBEIRO SANTOS                                      10/08/2021       CONFERENTE DE MERCADORIA
+ 19699          LUCRECIA FERREIRA DA SILVA                                        10/08/2021       VENDEDOR
+ 19701          JOSE PEREIRA DE LIMA NETO                                         10/08/2021       SUPERVISOR DE VENDAS
+ 19839          LUANA MARIA RAMOS FERREIRA                                        23/08/2021       AUX. DE PREVENCAO DE PERDAS II
+
+ 19842          KATIELLY ALVES DA SILVA                                           23/08/2021       ATENDENTE II
+ 19843          JOAO LUCAS DA SILVA VIEIRA DOS SANTOS                             23/08/2021       AUX. DE PREVENCAO DE PERDAS I
+ 19844          WILLIAM CLEBSON DOS SANTOS                                        23/08/2021       AUX. DE PREVENCAO DE PERDAS I
+ 19845          CAIO CESAR FLORENCIO DOS SANTOS                                   23/08/2021       AUX. ADMINISTRATIVO EM VENDAS
+
+ 19846          RONNY GUILHERME LIMA DA SILVA                                     23/08/2021       AUX. ADM DE MANUTENCAO
+ 19847          ROGERIO LIMA DO NASCIMENTO                                        23/08/2021       AUX. DE PREVENCAO DE PERDAS I
+ 19848          PAULO ROBERTO DA SILVA SIMAO                                      23/08/2021       SERRALHEIRO
+ 19949          AZIEL JOSE DE LIMA                                                30/08/2021       ENCANADOR
+
+ 19982          JOSE EDUARDO BARBOSA FERREIRA DOS SANTOS                          01/09/2021       AUX.ENTREGA EXTERNA
+ 19986          WILLAMS BEZERRA DA SILVA                                          02/09/2021       ENCARREGADO DE ATENDIMENTO
+ 20059          PAULO SERGIO TAVARES BARBOSA                                      06/09/2021       AUX. DE DEPOSITO
+ 20133          ELIANE SILVA DOS SANTOS                                           16/09/2021       AUX. DE PREVENCAO DE PERDAS I
+
+ 20134          LEONARDO ARTHUR HENRIQUE DE ALENCAR                               16/09/2021       AUX. DE TRADE MARKETING I
+ 20139          JOSIVAN TORRES DOS SANTOS                                         16/09/2021       AUX. DE PREVENCAO DE PERDAS II
+ 20141          VICTOR DE SOUSA BARROS SILVA                                      16/09/2021       ATENDENTE
+ 20142          ALVARO MATHEUS ARAUJO DE ANDRADE                                  16/09/2021       ATENDENTE
+
+ 20143          GLEYDSON JOSE DA PAIXAO                                           16/09/2021       AUX. DE PREVENCAO DE PERDAS I
+ 20229          LUCAS PIMENTEL NUNES                                              28/09/2021       AUX. DE DEPOSITO
+ 20240          WENDIO VICTOR DA SILVA ALVES                                      28/09/2021       ATENDENTE I
+ 20247          SEBASTIAO JOSE DE LIMA                                            28/09/2021       AUX. DE DEPOSITO II
+
+ 20248          JOSE NIVALDO GONCALVES JUNIOR                                     28/09/2021       VENDEDOR
+
+SMCL002.GER  -  14/12/2023  -  15:06:26                                                  FERREIRA COSTA & CIA LTDA                                                   Usuário: 19114
+ 0001  - Ferreira Costa e Cia Ltda                                                                                                           Pág.:        4
+                                                        Relação de Empregados
+
+
+ 
+ Cadastro       Nome                                                              Admissão         Cargo
+ 20249          ALEXSANDRA DAS DORES DA SILVA                                     28/09/2021       AUX. DE PREVENCAO DE PERDAS I
+
+ 20251          EDSON JOSE DA SILVA                                               28/09/2021       AUX.ENTREGA EXTERNA
+ 20252          EDVALDO PEREIRA DE MELO                                           28/09/2021       AUX. DE DEPOSITO II
+ 20253          JACIENE TORRES DE LIMA                                            28/09/2021       CONFERENTE DE MERCADORIA
+ 20255          TIAGO ANTONIO DE ARRUDA SILVA                                     28/09/2021       VENDEDOR
+
+ 20257          JEFERSON ANTONIO REIS DA SILVA                                    28/09/2021       ATENDENTE
+ 20259          VIVIANE CAMPOS DE OLIVEIRA                                        28/09/2021       ATENDENTE
+ 20433          JEFFERSON ARAUJO RODRIGUES                                        04/10/2021       ASSISTENTE DE RELACIONAMENTO
+ 20494          VAGNER PEDROZA CORDEIRO                                           11/10/2021       ATENDENTE
+
+ 20498          BRUNNO JAMES DOS SANTOS SILVA                                     11/10/2021       AUX. AUDITORIA INT.
+ 20499          JOSE NILSON DA SILVA VIANA                                        11/10/2021       CONFERENTE DE MERCADORIA
+ 20502          NIVALDO JOSE DA SILVA JUNIOR                                      11/10/2021       VENDEDOR
+ 20503          FABRICIO JOSE VANDO DA SILVA FERREIRA                             11/10/2021       OPERADOR DE EMPILHADEIRA I
+
+ 20522          IGOR MATEUS MARQUES DA SILVA                                      13/10/2021       VENDEDOR
+ 20573          SAMANTHA DA SILVA FERREIRA                                        21/10/2021       RECEPCIONISTA
+ 20583          MARIO LOPES DA SILVA                                              25/10/2021       AUXILIAR DE LIMPEZA SANITARIA
+ 20590          LAIDSON LUAN DA SILVA                                             25/10/2021       CONFERENTE DE MERCADORIA I
+
+ 20591          FANUEL RODRIGUES DA SILVA                                         25/10/2021       ATENDENTE I
+ 20597          BRENO DE LIMA MONTEIRO                                            25/10/2021       SEPARADOR
+ 20650          ALEXANDER DO NASCIMENTO SOARES                                    25/10/2021       VENDEDOR
+ 20651          SANDOVAL ALVES PEREIRA                                            25/10/2021       OPERADOR DE EMPILHADEIRA II
+
+ 20853          FLAVIO FERREIRA CAVALCANTE DE MELO                                10/11/2021       OPERADOR DE EMPILHADEIRA II
+ 20854          ALEXANDRE PEREIRA DE LIMA                                         10/11/2021       AUX.ENTREGA EXTERNA
+ 20949          THIAGO VINICIUS DO NASCIMENTO ARAUJO                              22/11/2021       ATENDENTE II
+ 20952          LUCAS EMMANUEL DE SOUZA SILVA                                     22/11/2021       ATENDENTE
+
+ 20953          JOAO FILIPE DA SILVA SOUZA                                        22/11/2021       AUX. DE PREVENCAO DE PERDAS I
+ 21077          MARIA ROBERTA DE SOUZA CAVALCANTI PASSOS                          08/12/2021       ATENDENTE
+ 21164          RAFAELA LIRA SANTOS                                               22/12/2021       OPERADOR DE LOJA
+ 21165          JOSE CICERO FLORENCIO DA SILVA                                    22/12/2021       ELETRICISTA
+
+ 21166          MIRIAM MORAES DA SILVA                                            22/12/2021       AUX. ADMINISTRATIVO I
+ 21400          EDUARDA JAYANNE MOREIRA DA SILVA                                  21/03/2022       APRENDIZ EM SERVIÇOS ADM
+ 21421          DANIEL GALDINO DE SOUZA                                           26/03/2022       VENDEDOR
+ 21486          GABRIEL BEZERRA DOS SANTOS                                        26/04/2022       APOIO DE CAIXA
+
+ 21487          GUILHERME VANDERLEI ALVES DA SILVA                                26/04/2022       CONFERENTE DE MERCADORIA
+ 21488          THIAGO LUIZ SILVA SABINO                                          26/04/2022       AUX. DE DEPOSITO
+ 21489          HELQUIADES DA ROCHA MUNIZ                                         26/04/2022       MOTORISTA
+ 21491          JULIO CESAR ALVES DE SOUZA                                        29/04/2022       PINTOR
+
+ 21575          CARLOS HENRIQUE DA PAZ SOBRAL                                     13/05/2022       OPERADOR DE EMPILHADEIRA I
+ 21630          ADNA JEYSIANE FERREIRA DA SILVA                                   26/05/2022       OPERADOR DE LOJA
+ 21632          LUAN DA SILVA BEZERRA FERREIRA                                    26/05/2022       ATENDENTE
+ 21633          VANDERSON JOSE DA SILVA                                           26/05/2022       AUX. DE DEPOSITO
+
+ 21635          ALBERIS PAULINO DA SILVA                                          27/05/2022       AUX.ENTREGA EXTERNA
+ 21696          INGRID JOYCE DE SALLIX ROSENO DE SOUZA                            08/06/2022       ATENDENTE I
+ 21699          WILLIAM CARLOS VELOSO DA SILVA                                    08/06/2022       VENDEDOR
+ 21700          PEDRO LUCCA EVANGELISTA SILVA                                     08/06/2022       AUX. ADMINISTRATIVO I
+
+ 21702          LUCICLEIDE MARIA DA SILVA AZEVEDO                                 08/06/2022       OPERADOR DE LOJA
+ 21705          MARIA DA PAZ SILVA                                                08/06/2022       SUPERVISOR DE VENDAS
+ 21706          EMILY VITORIA DA SILVA                                            08/06/2022       ATENDENTE
+ 21764          LARISSA FERREIRA DA SILVA                                         27/06/2022       VENDEDOR
+
+ 21765          VALQUIRIA BEZERRA DOS SANTOS                                      27/06/2022       SUPERVISOR DE ATENDIMENTO I
+ 21768          DIEGO JEFFERSON DA SILVA                                          27/06/2022       AUX.ENTREGA EXTERNA
+ 21841          LIDIANE GRAZIELLE DA SILVA ARAUJO                                 14/07/2022       ATENDENTE
+ 21844          FABIO LOURENCO DA SILVA                                           14/07/2022       AUX. DE DEPOSITO
+
+ 21845          RICELLE CHAYENNE APARECIDO SILVA ARAUJO                           14/07/2022       APOIO DE CAIXA
+ 21904          JOSE EDVALDO DO NASCIMENTO JUNIOR                                 27/07/2022       AUX. DE DEPOSITO I
+ 21905          JOSE BRENO NASCIMENTO SILVA                                       27/07/2022       OPERADOR DE EMPILHADEIRA I
+ 21907          EDILMA DOS SANTOS LIRA                                            27/07/2022       OPERADOR DE LOJA
+
+ 21908          NADJA FORTUNATO DA SILVA                                          27/07/2022       ATENDENTE
+ 21909          JOSE EDRIANO DOS SANTOS SILVA                                     27/07/2022       ATENDENTE
+ 21910          REGIANE DE OLIVEIRA CASE                                          27/07/2022       ATENDENTE
+ 22063          MATHEUS ALEXANDRE DE GODOI LUNA                                   23/08/2022       ATENDENTE
+
+ 22065          CAMILA TAIZA DO NASCIMENTO                                        23/08/2022       OPERADOR DE LOJA
+ 22067          DARIO ROGERIO DA SILVA                                            23/08/2022       AUX. DE DEPOSITO
+ 22068          KAUE GABRIEL DA SILVA                                             23/08/2022       AUX. DE DEPOSITO
+ 22226          CRISTIAN RIAN DO NASCIMENTO SILVA                                 13/09/2022       VENDEDOR
+
+ 22228          MARIA EMANUELLY DA SILVA SOUZA                                    13/09/2022       ATENDENTE
+
+SMCL002.GER  -  14/12/2023  -  15:06:27                                                  FERREIRA COSTA & CIA LTDA                                                   Usuário: 19114
+ 0001  - Ferreira Costa e Cia Ltda                                                                                                           Pág.:        5
+                                                        Relação de Empregados
+
+
+ 
+ Cadastro       Nome                                                              Admissão         Cargo
+ 22302          AMAURY SEBA MARCOLINO                                             28/09/2022       CONFERENTE DE MERCADORIA
+
+ 22303          CRISTIANE DOS PRAZERES DA SILVA                                   28/09/2022       OPERADOR DE LOJA
+ 22332          JERASES ISRAEL MACEDO DOS SANTOS                                  28/09/2022       PATINADOR
+ 22335          EDJA OLIVEIRA DA SILVA                                            28/09/2022       VENDEDOR
+ 22346          ALMIR CORDEIRO DA SILVA                                           28/09/2022       AUX. DE DEPOSITO
+
+ 22615          CRISTIANE MARIA DA SILVA                                          25/10/2022       AUX. DE SERVICOS GERAIS
+ 22618          JOSE MARCIO BARBOSA INACIO                                        25/10/2022       VENDEDOR
+ 22619          SORAYA MAURICELIA FERREIRA DA SILVA GUIM                          25/10/2022       ATENDENTE
+ 22620          RONEI FERREIRA DE LIMA                                            25/10/2022       CONFERENTE DE MERCADORIA
+
+ 22660          FABIO KAUAN ALVES DA SILVA                                        03/11/2022       VENDEDOR
+ 22662          JOSE ADRIANO CORDEIRO MONTEIRO                                    03/11/2022       AUX. DE DEPOSITO
+ 22663          RODOLFO GOMES COSTA                                               03/11/2022       AUX. DE DEPOSITO
+ 22695          CAIO EDUARDO DA SILVA                                             04/11/2022       AUX. DE TRADE MARKETING I
+
+ 22696          JOAO VICTOR LIMA DA SILVA                                         04/11/2022       APRENDIZ EM SERVIÇOS ADM
+ 22874          DOUGLAS DOROTEU DE SA FREITAS                                     23/11/2022       ATENDENTE
+ 22875          JOSE CARLOS DA SILVA                                              23/11/2022       AUX. DE DEPOSITO
+ 22982          JOSE RIKELME CABRAL DA SILVA                                      25/01/2023       CONFERENTE DE MERCADORIA
+
+ 22983          DJANE LIMEIRA DA SILVA                                            25/01/2023       OPERADOR DE LOJA
+ 22984          JEFERSON DO NASCIMENTO ARAUJO                                     25/01/2023       AUX. DE DEPOSITO
+ 22985          WESLEY RODRIGO MIRANDA DA SILVA                                   25/01/2023       ATENDENTE
+ 22986          MARIO VICTOR DA SILVA                                             25/01/2023       ATENDENTE
+
+ 23001          JAILTON JOSE DA SILVA                                             02/02/2023       AUX.ENTREGA EXTERNA
+ 23002          ANTONIO COSME DE SOUZA NETO                                       02/02/2023       AUX.ENTREGA EXTERNA
+ 23005          RODRIGO FABRY SANTOS SILVA                                        02/02/2023       APOIO DE CAIXA
+ 23006          LUCAS MOREIRA SIQUEIRA                                            02/02/2023       AUX.ENTREGA EXTERNA
+
+ 23007          SHEINY GUSMAN MENDONÇA DA SILVA                                   02/02/2023       AUX. DE DEPOSITO
+ 23075          GUILHERME DA SILVA COSTA                                          16/02/2023       ATENDENTE
+ 23076          WALDERICE DOS SANTOS                                              16/02/2023       AUX. DE SERVICOS GERAIS
+ 23077          ANA CELIA SEVERINA FACUNDO                                        16/02/2023       AUX. DE SERVICOS GERAIS
+
+ 23078          JACIARA VIEIRA DA SILVA                                           16/02/2023       ATENDENTE
+ 23079          GLAUSE SILVA OLIVEIRA                                             16/02/2023       ATENDENTE
+ 23205          JOSE ANDERSON ARAGAO DA SILVA                                     27/03/2023       ATENDENTE
+ 23207          ARTHUR SENA DE SANTANA                                            27/03/2023       ATENDENTE
+
+ 23209          NAIANE KATLIM DO NASCIMENTO MENDES                                27/03/2023       VENDEDOR ADS
+ 23251          MIGUEL CANDIDO PASCOAL                                            27/03/2023       ATENDENTE
+ 23280          POLYANE VASCONCELOS LIMA                                          05/04/2023       OPERADOR DE LOJA
+ 23282          JEFFERSON JOAVILIM SILVA                                          05/04/2023       ATENDENTE
+
+ 23283          DENIS ALVES DIAS JUNIOR                                           05/04/2023       APOIO DE CAIXA
+ 23284          DAVI JOSE BANDEIRA                                                05/04/2023       AUX. DE DEPOSITO
+ 23326          ALAN ANTONIO SILVA DE LIMA                                        27/04/2023       AUX. DE DEPOSITO
+ 23391          CARLOS GABRIEL SILVA DE SOBRAL                                    11/05/2023       ATENDENTE
+
+ 23425          ADRIANO JULIO PEREIRA                                             17/05/2023       OPERADOR DE EMPILHADEIRA I
+ 23452          MANOEL FERREIRA DOS SANTOS                                        25/05/2023       AUX. DE DEPOSITO
+ 23454          ROBSON MANOEL PEDRO DA SILVA                                      25/05/2023       AUX. AUDITORIA INT.
+ 23455          BRASMAN PEREIRA DE MORAIS FILHO                                   25/05/2023       AUX. AUDITORIA INT.
+
+ 23525          TIAGO WENDERSON DIAS PEREIRA                                      13/06/2023       ATENDENTE
+ 23526          EMANUEL HENRIQUE DE SOUZA LINS                                    13/06/2023       AUX. DE PREVENCAO DE PERDAS I
+ 23527          JOSE NOUZINHO DE OLIVEIRA JUNIOR                                  13/06/2023       SUPERVISOR DE DEPOSITO
+ 23528          ROBSON VIEIRA AGUIAR                                              13/06/2023       MOTORISTA
+
+ 23570          ELDILECIO PEDRO DA SILVA                                          22/06/2023       AUX. DE DEPOSITO
+ 23573          JACKSON RIAN ALVES ARAUJO                                         22/06/2023       AUX.ENTREGA EXTERNA
+ 23577          JOSE CARLOS  DA SILVA BEZERRA                                     23/06/2023       AUX. DE DEPOSITO
+ 23639          ROMILDO GLEBSON GOMES DA SILVA                                    10/07/2023       OPERADOR DE EMPILHADEIRA I
+
+ 23682          NATANAEDSON GLEBSON RAMOS                                         20/07/2023       AUX. DE DEPOSITO
+ 23683          WILLAMIS WSLEN LOPES FERREIRA                                     20/07/2023       ATENDENTE
+ 23690          WEBERTY DOS SANTOS NUNES                                          20/07/2023       ATENDENTE
+ 23693          WESLEY BEZERRA DE SOUSA                                           21/07/2023       AUX. DE DEPOSITO
+
+ 23694          FABIO GERMANO MIRANDA DE LIRA                                     21/07/2023       SUPERVISOR PREV. DE PERDAS
+ 23734          CARLA JULIANA DA COSTA PINHO                                      25/07/2023       OPERADOR DE LOJA
+ 23864          ANA KAROLINA DO NASCIMENTO SILVA FLORENC                          21/08/2023       APRENDIZ EM SERVIÇOS VENDAS
+ 23865          ANTHONY MEDEIROS VALENCA                                          21/08/2023       APRENDIZ EM SERVIÇOS ADM
+
+ 23866          GUILHERME OLIVEIRA MOURA                                          21/08/2023       APRENDIZ EM SERVIÇOS ADM
+ 23867          KECIA ALICIA DE SOUSA FERREIRA                                    21/08/2023       APRENDIZ EM SERVIÇOS VENDAS
+ 23868          ESTEFANI BEATRIZ LIMA DE SOUZA FERREIRA                           21/08/2023       APRENDIZ EM SERVIÇOS VENDAS
+ 23869          ASHIRLEY TAINARA FERREIRA OLIVEIRA                                21/08/2023       APRENDIZ EM SERVIÇOS VENDAS
+
+ 23870          ARTHUR GABRIEL FEITOSA                                            21/08/2023       APRENDIZ EM SERVIÇOS ADM
+
+SMCL002.GER  -  14/12/2023  -  15:06:28                                                  FERREIRA COSTA & CIA LTDA                                                   Usuário: 19114
+ 0001  - Ferreira Costa e Cia Ltda                                                                                                           Pág.:        6
+                                                        Relação de Empregados
+
+
+ 
+ Cadastro       Nome                                                              Admissão         Cargo
+ 23871          THARSILA LORENA VELOZO CARVALHO DE OLIVE                          21/08/2023       APRENDIZ EM SERVIÇOS VENDAS
+
+ 23872          SERGIO LUCAS DE ASSIS SALVADOR                                    21/08/2023       APRENDIZ EM SERVIÇOS VENDAS
+ 23873          MARIANA DIAS PORTELA OLIVEIRA                                     21/08/2023       APRENDIZ EM SERVIÇOS ADM
+ 23874          LUIS GUSTAVO SILVA DE BRITO                                       21/08/2023       APRENDIZ EM SERVIÇOS ADM
+ 23875          LETICIA SANTOS DA SILVA                                           21/08/2023       APRENDIZ EM SERVIÇOS VENDAS
+
+ 23876          LETICIA MILENA DA SILVA                                           21/08/2023       APRENDIZ EM SERVIÇOS VENDAS
+ 23877          JANIELLY BARBOSA DA SILVA                                         21/08/2023       APRENDIZ EM SERVIÇOS ADM
+ 23878          MARINA DE SOUSA OLIVEIRA                                          21/08/2023       APRENDIZ EM SERVIÇOS VENDAS
+ 23879          RUAN CRUZ GOUVEIA MARTINS                                         21/08/2023       APRENDIZ EM SERVIÇOS VENDAS
+
+ 23884          JOAO MANOEL BARBOSA DE OLIVEIRA                                   21/08/2023       APRENDIZ EM SERVIÇOS VENDAS
+ 23885          RAFAELL WILLYAM MARQUES                                           22/08/2023       APOIO DE CAIXA
+ 23886          FELIPE WESLEY DE AZEVEDO SOUZA                                    22/08/2023       APOIO DE CAIXA
+ 23887          MIGUEL SILVA CANDIDO                                              22/08/2023       ATENDENTE
+
+ 23917          CRISLAYNE MARLENE DA SILVA TONEO                                  22/08/2023       OPERADOR DE LOJA
+ 23918          JESSICA PATRICIA DA SILVA                                         22/08/2023       OPERADOR DE LOJA
+ 23919          EDUARDO MIQUEIAS DUTRA SILVA                                      22/08/2023       ATENDENTE
+ 23946          ANNE GABRIELLE ALVES DE SOUZA                                     22/08/2023       ATENDENTE
+
+ 23947          LUCA GUILHERME NEVES DE OLIVEIRA DOS SAN                          22/08/2023       CONFERENTE DE MERCADORIA
+ 23948          ANA CLAUDIA JOSEFA DE MELO                                        22/08/2023       ATENDENTE
+ 24297          IGOR HENRIQUE CORREIA DE OLIVEIRA                                 25/09/2023       ANALISTA RECURSOS HUMANOS
+ 24298          JOAO PEDRO DE SOUZA MARTINS ALVES                                 25/09/2023       ATENDENTE
+
+ 24299          RENAN GABRIEL ARAUJO DOS SANTOS                                   25/09/2023       ATENDENTE
+ 24301          LAIS VIRGINIA DA SILVA CARVALHO                                   25/09/2023       OPERADOR DE LOJA ADS
+ 24302          ARELLY QUEREM SANTOS                                              25/09/2023       OPERADOR DE LOJA
+ 24303          LETICIA FREITAS DE SOUZA                                          25/09/2023       ATENDENTE
+
+ 24304          ALEXSANDRA SEVERINA DA SILVA                                      25/09/2023       OPERADOR DE LOJA
+ 24328          TAMARA MILENA DO REGO BARROS                                      25/09/2023       ATENDENTE ADS
+ 24354          WILKLEY SEBASTIAO DOS SANTOS E SILVA                              25/09/2023       ATENDENTE
+ 24355          BRUNA EMANUELE SILVA DOS SANTOS                                   25/09/2023       ATENDENTE
+
+ 24356          ANGELA MARIA SILVA DE SOUZA                                       25/09/2023       OPERADOR DE LOJA
+ 24357          RAMOM VINICIUS DA SILVA                                           25/09/2023       AUX. DE DEPOSITO
+ 24359          GABRIEL WALLYSSON MONTEIRO DOS SANTOS                             25/09/2023       ATENDENTE
+ 24553          GLAUCIO ALBUQUERQUE DE ARAUJO                                     11/10/2023       AUX. DE PREVENCAO DE PERDAS I
+
+ 24555          ANDERSON VINICIUS LIMA DA SILVA                                   11/10/2023       AUX. DE SERVICOS GERAIS
+ 24556          ALEXSANDRO SILVA FERREIRA                                         11/10/2023       AUX. DE DEPOSITO
+ 24561          LUCAS RAFAEL DE MELO PEDROSA                                      11/10/2023       APOIO DE CAIXA
+ 24562          UELDIJA ROBERTA DA SILVA                                          11/10/2023       OPERADOR DE LOJA
+
+ 24563          LUCAS GOMES DE OLIVEIRA                                           11/10/2023       ATENDENTE
+ 24622          AMANDA SASKIA NUNES MARINS                                        19/10/2023       AUX. DEPTO. PESSOAL
+ 24623          ERALDO JOSE DA SILVA JUNIOR                                       20/10/2023       AUX. DE DEPOSITO - ADS
+ 24624          DANIEL ARAUJO CORREA DA SILVA                                     20/10/2023       AUX. DE DEPOSITO
+
+ 24626          JURANDIR MATIAS DA SILVA                                          20/10/2023       ATENDENTE
+ 24627          LUCAS DE LIRA PEREIRA DA SILVA                                    20/10/2023       AUX. DE DEPOSITO
+ 24628          NATHALIA MONIQUE DA SILVA                                         20/10/2023       OPERADOR DE LOJA ADS
+ 24629          JAMESSON JOSE DA SILVA MARTINS                                    20/10/2023       AUX. DE DEPOSITO
+
+ 24630          CELSO MANOEL DA SILVA JUNIOR                                      20/10/2023       AUX. DE PREVENCAO DE PERDAS I
+ 24631          JOSE LUCIMARIO PEREIRA DA SILVA                                   20/10/2023       ELETRICISTA
+ 24634          ERIVAN BELO DA SILVA                                              26/10/2023       MOTORISTA
+ 24853          ROSANGELA VALENCA LEITE                                           07/11/2023       OPERADOR DE LOJA ADS
+
+ 24856          CARLOS JOSE DA SILVA                                              09/11/2023       AUX. DE DEPOSITO
+ 24857          DANIEL TAVARES DA SILVA                                           09/11/2023       APOIO DE CAIXA
+ 24858          LUCIANA MONTEIRO DA SILVA                                         09/11/2023       AUX. DE SERVICOS GERAIS
+ 24859          REGINALDO GUALBERTO DA SILVA FILHO                                09/11/2023       AUX. DE DEPOSITO
+
+ 24861          FERNANDO NUNES PENA                                               09/11/2023       AUX. DE DEPOSITO
+ 24862          JOSE WELLINGTON LIMA DA SILVA                                     09/11/2023       AUX. DE SERVICOS GERAIS
+ 24863          ARISTON DE ARAUJO SILVA                                           09/11/2023       AUX. DE SERVICOS GERAIS
+ 24864          JOAO VITOR MACEDO MARQUES                                         09/11/2023       AUX. DE DEPOSITO
+
+ 24897          JOAO VINICIUS SILVA FELIX                                         10/11/2023       APOIO DE CAIXA
+ 24898          ALEX FERREIRA DA COSTA                                            10/11/2023       APOIO DE CAIXA
+ 24954          MARIA VASCONCELOS DE MELO                                         16/11/2023       ATENDENTE
+ 24955          SIOMARA SANTOS VIANNA                                             16/11/2023       ATENDENTE ADS
+
+ 24956          ALBERES SERAFIM DA SILVA                                          16/11/2023       CONFERENTE DE MERCADORIA
+ 24957          ALEXANDRE AMARO DA SILVA                                          16/11/2023       AUX. DE DEPOSITO
+ 24958          JACIELE MARTINHA FERREIRA                                         16/11/2023       AUX. DE E-COMMERCE
+ 24959          MARIA EDUARDA DA SILVA BRITO                                      16/11/2023       AUX. DE SERVICOS GERAIS
+
+ 24960          JOSIVAL SILVA DOS SANTOS                                          16/11/2023       AUX. DE SERVICOS GERAIS
+
+SMCL002.GER  -  14/12/2023  -  15:06:29                                                  FERREIRA COSTA & CIA LTDA                                                   Usuário: 19114
+ 0001  - Ferreira Costa e Cia Ltda                                                                                                           Pág.:        7
+                                                        Relação de Empregados
+
+
+ 
+ Cadastro       Nome                                                              Admissão         Cargo
+ 25037          JOSE VALERIANO RIBEIRO BEZERRA                                    22/11/2023       APOIO DE CAIXA
+
+ 25038          GABRIEL DA SILVA TERTO                                            22/11/2023       APOIO DE CAIXA ADS
+ 25041          MATEUS PEREIRA DA SILVA                                           22/11/2023       CONFERENTE DE MERCADORIA
+ 25042          JOARLES FRANCO ANICETO                                            22/11/2023       AUX. DE DEPOSITO
+ 25044          JOSIAS DA SILVA OLIVEIRA SANTOS                                   22/11/2023       APOIO DE CAIXA ADS
+
+ 25198          MIRELIM HABECH SENA SILVA                                         05/12/2023       AUX. DE RECURSOS HUMANOS
+ Total Geral                                                                                       00402
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SMCL002.GER  -  14/12/2023  -  15:06:29                                                  FERREIRA COSTA & CIA LTDA                                                   Usuário: 19114
