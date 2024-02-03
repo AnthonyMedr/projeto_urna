@@ -1,6 +1,5 @@
 # projeto_urna
-URNA  1.1
+URNA  1.0
 
-Urna quase finalizada, faltando apenas ajustes na tela de gerenciamento.
- ajustes esses: 
-          -Posicionar os candidatos fixamente na tabela de votos, mesmo que não apresentem votos.
+Primeira versão do projeto urna FC CAU, feita apenas com linguagens web, html, css, algumas ações utilizando javascript e todas as ligações com o BD feitas a partir de PHP.
+Banco de dados MySql faormado por tabelas de CPF e Matricula.
