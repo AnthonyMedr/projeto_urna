@@ -1,0 +1,1 @@
+insert into dados values (7420,06418806425)

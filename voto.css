@@ -1,0 +1,221 @@
+@font-face {
+    font-family: 'barlow';
+    src: url(/fontes/Barlow-SemiBold.ttf);
+}
+
+body{
+    
+    background-color: #9BF1B0;
+}
+.titulo{
+    font-family: 'barlow';
+    color: white;   
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-size: 48px;
+    text-align: center;  
+}
+.logo{
+    height: 120px;
+    top: 40px;
+    left: 90%;
+    position: absolute;
+    -webkit-filter: drop-shadow(0px 0px 20px rgba(0 0 0 / 90%)); 
+    filter: drop-shadow(5px 10px 10px rgba(0 0 0 / 90%));
+}
+
+
+.candidato-botao {
+    display: flex;
+    width: 101px;
+    height: 200px;
+    background-size: cover;
+    text-indent: -9999px;
+    margin: 0 auto;
+    top: 40%;
+    position: absolute;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    align-items: center;
+    
+
+}
+/* left de 20% em 20%    <button id="botao5" class="candidato-botao">Votar na Lisa</button> */
+/* top:70%; Posiciona o segundo botão abaixo do primeiro */
+.candidato-botao:hover{
+    opacity: 0.8;
+}
+
+#botao1 {
+    background-image: url('img/OIP.jpg');
+    left: 16%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#botao2 {
+    background-image: url('img/R.jpg');
+    left: 24%; 
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#botao3 {
+    background-image: url('img/back.jpeg');
+     left:32%;
+}   
+
+#botao4 {
+    background-image: url('img/back.jpeg');
+    left:40%;
+}
+
+#botao5 {
+    background-image: url('img/back.jpeg');
+    left: 48%;
+
+}
+#botao6 {
+    background-image: url('img/back.jpeg');
+    left: 56%;
+
+}
+#botao7 {
+    background-image: url('img/back.jpeg');
+    left: 64%;
+
+}
+#botao8 {
+    background-image: url('img/back.jpeg');
+    left: 72%;
+
+}
+#botao9 {
+    background-image: url('img/back.jpeg');
+    left: 80%;
+}
+
+#botao10 {
+    background-image: url('img/back.jpeg');
+    left: 16%;
+    top: 75%;
+}
+
+#botao11 {
+    background-image: url('img/back.jpeg');
+    left: 24%;
+    top: 75%; 
+}
+
+#botao12 {
+    background-image: url('img/back.jpeg');
+     left:32%;
+     top: 75%;
+}   
+
+#botao13 {
+    background-image: url('img/back.jpeg');
+    left:40%;
+    top: 75%;
+}
+
+#botao14 {
+    background-image: url('img/back.jpeg');
+    left: 48%;
+    top: 75%;
+}
+#botao15 {
+    background-image: url('img/back.jpeg');
+    left: 56%;
+    top: 75%;
+}
+#botao16 {
+    background-image: url('img/back.jpeg');
+    left: 64%;
+    top: 75%;
+}
+#botao17 {
+    background-image: url('img/back.jpeg');
+    left: 72%;
+    top: 75%;
+}
+
+#botaob {
+    left: 80%;
+    top: 75%;
+    
+
+}
+
+.centro{
+    text-align: center;
+}
+
+.popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    
+}
+
+.popup-conteudo {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.fechar {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 0.0);
+}
+
+.popup-conteudo button {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.popup-conteudo button:hover {
+    background-color: #0056b3;
+}
+.nomec{
+    margin: 10px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fotter{
+    position: absolute;
+    bottom: 0;
+    left: 2%;
+    align-items: center;
+    text-align: center;
+}
+.sair {
+    background-color: #00ff7f;
+    border-radius: 4px;
+    font-size: 30px;
+    cursor: pointer;
+    left: 10%;
+    top: 5%;
+    position: absolute;
+    text-decoration: none;
+}   
