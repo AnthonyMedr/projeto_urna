@@ -2,7 +2,7 @@
 
  $dbHost = 'Localhost';
  $dbUsername = 'user';
- $dbPassword = 'boba3642';
+ $dbPassword = '';
  $dbName='bd_urna';
 
  $conexao = new mysqli($dbHost,$dbUsername,$dbPassword,$dbName);
