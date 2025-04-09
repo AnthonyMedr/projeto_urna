@@ -15,5 +15,5 @@ Banco de dados MySql formado por tabelas de CPF e Matricula.
 # Atualizações futuras
 - Cadastro de candidatos funcional
 - Melhorar as respostas do banco ao usuário
-- Aperfeisoar a segurança
+- Aperfeiçoar a segurança
 - Melhoria no  sistema de comprovantes
