@@ -133,7 +133,7 @@ matricula,cpf,nome,setor,is_admin
 - `is_admin` e opcional (true/false/1/0/sim/nao).
 - Linhas invalidas sao retornadas no resultado do import.
 
-## Proximos passos sugeridos
+## Proximos passos
 
 - Exportacao de relatorios finais em PDF/CSV e API para auditoria externa.
 - Monitoramento em tempo real (WebSocket/SSE) para parciais.
