@@ -1,0 +1,436 @@
+body {
+  margin: 0;
+  background: #f2f4f5;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.senior-layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.senior-layout.sem-imagem {
+  background: #f6fbf8;
+}
+
+.senior-left {
+  flex: 1;
+  position: relative;
+  background: #1b5e20;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.senior-bg-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.6);
+  z-index: 1;
+}
+
+.senior-right {
+  flex: 1;
+  background: #fff;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  overflow-y: auto;
+}
+
+.sem-imagem .senior-right {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.senior-logo {
+  width: 150px;
+  align-self: flex-start;
+}
+
+.card-container {
+  width: 100%;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+  padding: 32px;
+}
+
+.login-form-wrapper {
+  width: 100%;
+}
+
+.input-with-icon {
+  position: relative;
+  margin-bottom: 16px;
+}
+
+.input-with-icon input {
+  width: 100%;
+  padding: 12px 12px 12px 44px;
+  border-radius: 10px;
+  border: 1px solid #dfe6e9;
+  font-size: 1em;
+}
+
+.input-icon {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #8e9eab;
+}
+
+.primary-btn,
+.secondary-btn {
+  padding: 12px 20px;
+  border-radius: 999px;
+  border: none;
+  font-size: 1em;
+  font-weight: bold;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.primary-btn {
+  background: #009966;
+  color: #fff;
+  width: 100%;
+}
+
+.secondary-btn {
+  background: transparent;
+  color: #009966;
+  border: 1px solid #009966;
+}
+
+.primary-btn:disabled,
+.secondary-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.session-info {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  background: #f6fbf8;
+  border: 1px solid #cfe9dd;
+  padding: 16px 24px;
+  border-radius: 12px;
+}
+
+.session-info strong {
+  display: block;
+  color: #1b5e20;
+}
+
+.steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.step {
+  border: 1px dashed #dfe6e9;
+  border-radius: 12px;
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.95em;
+  color: #7f8c8d;
+}
+
+.step-index {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 1px solid currentColor;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.step.ativo {
+  border-color: #009966;
+  color: #009966;
+}
+
+.step.concluido {
+  border-style: solid;
+  color: #2ecc71;
+}
+
+.candidatos-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.candidato-card {
+  border: 1px solid #ecf0f1;
+  border-radius: 16px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  background: #fff;
+  cursor: pointer;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.candidato-card img {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.candidato-card.ativo {
+  border-color: #009966;
+  box-shadow: 0 10px 20px rgba(0, 153, 102, 0.15);
+  transform: translateY(-4px);
+}
+
+.candidato-card strong {
+  font-size: 1.05em;
+  color: #2c3e50;
+}
+
+.candidato-card span {
+  color: #7f8c8d;
+  font-size: 0.9em;
+}
+
+.candidato-card a {
+  color: #009966;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.candidato-descricao {
+  font-size: 0.9em;
+  color: #4d4d4d;
+  text-align: center;
+}
+
+.confirmacao-voto,
+.voto-confirmado {
+  text-align: center;
+}
+
+.admin-placeholder {
+  text-align: center;
+  color: #2c3e50;
+}
+
+.admin-placeholder p {
+  color: #596273;
+}
+
+.confirmacao-card {
+  border: 1px solid #dfe6e9;
+  border-radius: 12px;
+  padding: 24px;
+  margin: 16px 0;
+}
+
+.confirmacao-acoes {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+}
+
+.receipt {
+  margin-top: 16px;
+  background: #f6fbf8;
+  border-radius: 12px;
+  padding: 20px;
+  border: 1px solid #cfe9dd;
+  display: grid;
+  gap: 4px;
+}
+
+.receipt code {
+  background: #fff;
+  padding: 6px 10px;
+  border-radius: 6px;
+  word-break: break-all;
+}
+
+.painel-admin {
+  width: 100%;
+  background: #f6fbf8;
+  border-radius: 16px;
+  padding: 24px;
+  border: 1px solid #d7efe1;
+}
+
+.painel-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.admin-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
+}
+
+.admin-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.admin-form input,
+.admin-form textarea {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid #dfe6e9;
+  margin-bottom: 10px;
+  font-family: inherit;
+}
+
+.import-info {
+  font-size: 0.9em;
+  color: #596273;
+  margin-bottom: 12px;
+}
+
+.import-summary {
+  margin-top: 12px;
+  background: #f6fbf8;
+  border: 1px solid #cfe9dd;
+  border-radius: 10px;
+  padding: 12px 14px;
+}
+
+.import-errors {
+  margin: 10px 0 0;
+  padding-left: 18px;
+  color: #b03a2e;
+  font-size: 0.9em;
+}
+
+.resultados-lista {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.resultados-lista li {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #ecf0f1;
+  border-radius: 10px;
+  padding: 10px 14px;
+}
+
+.tabela-eleitores {
+  overflow-x: auto;
+}
+
+.tabela-eleitores table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95em;
+}
+
+.tabela-eleitores th,
+.tabela-eleitores td {
+  border-bottom: 1px solid #ecf0f1;
+  padding: 8px 6px;
+  text-align: left;
+}
+
+.tabela-eleitores th {
+  text-transform: uppercase;
+  font-size: 0.75em;
+  letter-spacing: 0.08em;
+  color: #7f8c8d;
+}
+
+.auditoria-lista {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-height: 320px;
+  overflow-y: auto;
+}
+
+.auditoria-lista li {
+  border: 1px solid #ecf0f1;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+.auditoria-resumo {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  color: #566573;
+}
+
+.auditoria-lista pre {
+  background: #f4f6f6;
+  padding: 8px;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+.message-success {
+  color: #2ecc71;
+  font-weight: bold;
+  text-align: center;
+}
+
+.message-error {
+  color: #e74c3c;
+  font-weight: bold;
+  text-align: center;
+}
+
+.message-info {
+  color: #2980b9;
+  font-weight: bold;
+  text-align: center;
+}
+
+@media (max-width: 980px) {
+  .senior-layout {
+    flex-direction: column;
+  }
+
+  .senior-left {
+    display: none;
+  }
+
+  .senior-right {
+    padding: 24px;
+  }
+}
